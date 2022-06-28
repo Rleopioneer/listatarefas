@@ -7,8 +7,11 @@
 ## Sobre o Projeto
 
 
+O usuário digitará a tarefa desejada, ao pressionar a tecla 'Enter', a tarefa será exibida na tela e poderá ser excluído ou marcado como concluído posteriormente. A lista de tarefas fica salva usando o local storage do navegador. Toda a estrutura do JavaScript foi desenvolvida dentro de um objeto, deixando o código limpo e organizado. Funções podem ser reutilizadas
 
-O usuário digitará a tarefa desejada, ao pressionar a tecla 'Enter', a tarefa será exibida na tela e poderá ser excluído ou marcado como concluído posteriormente. A lista de tarefas fica salva usando o local storage do navegador.
+### Link:
+
+- [GitHub Pages](https://rleopioneer.github.io/listatarefas/)
 
 
 
